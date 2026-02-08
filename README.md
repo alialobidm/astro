@@ -1,4 +1,5 @@
 ![Build the web you want](.github/assets/banner.jpg 'Build the web you want')
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fastro.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fastro?ref=badge_shield)
 
 <p align="center">
   <br/>
@@ -102,3 +103,7 @@ Astro is free, open source software made possible by these wonderful sponsors.
     <img src="https://astro.build/sponsors.png" alt="Sponsor logos including the current Astro Sponsors, Gold Sponsors, and Exclusive Partner Sponsors: Netlify, Sentry, and Project IDX." />
   </a>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fastro.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fastro?ref=badge_large)
